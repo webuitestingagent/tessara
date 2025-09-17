@@ -1,0 +1,15 @@
+firefox_profile_path: #your firefox profile path
+geckodriver_path: # your firefox (geckdriver) path
+intent: Tell me the distance to drive from "the tallest building in Manhattan" to the Empire State Building Use wikipedia (https://www.wikipedia.org/)  to fetch information and open street maps (https://www.openstreetmap.org/#map=5/38.00/-88.15) to fetch the navigation
+nlp_task: Tell me the distance to drive from "the tallest building in Manhattan" to the Empire State Building.
+planner:
+  api_key: <#your_api_key>
+  api_version: 2024-12-01-preview
+  azure_endpoint: <#your_api_endpoint>
+problem_id: rq5
+screenshot_location: <#your_screenshot_location>
+scripter:
+  api_key: <#your_api_key>
+  api_version: 2024-12-01-preview
+  azure_endpoint: <#your_api_endpoint>
+start_url: https://en.wikipedia.org/
