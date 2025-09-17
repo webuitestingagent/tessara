@@ -19,6 +19,7 @@ atlas
 │   ├── prompts
 │   │   ├── planner_instructions.txt
 │   │   ├── scripter_instructions.txt
+│   │   ├── answering_instructions.txt
 │   ├── codebase
 │   │   ├── config.yaml
 │   │   ├── main.py
