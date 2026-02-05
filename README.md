@@ -1,6 +1,8 @@
 # Tessara - Web Automation System
 
-Tessara is an intelligent web automation system that uses Large Language Models (LLMs) to understand tasks, generate plans, create executable scripts, and automate web interactions using Playwright.
+Large Language Models (LLMs) have shown promise in reasoning and code-related tasks, but they continue to struggle with dynamic software behaviors, especially in Web environments involving interactive Graphical User Interfaces (GUIs), leading to limited successes in  est script generation for Web applications. This paper presents Tessara, a novel agentic framework designed to enhance LLM’s capability of generating sequences of executable actions and subsequently test script generation for Web applications. Unlike prior approaches
+that lack adaptability and tractability, Tessara integrates Chain-of-Thought (CoT) prompting with a new Program-for-Thought (PfT) scripting strategy, which expresses each reasoning step as executable code for fine-grained verification and backtracking. By combining CoT-based planning, PfT-guided scripting, and multimodal inputs (DOM+screenshots), Tessara supports adaptive re-planning and backtracking without full re-planning. We demonstrate that Tessara outperforms state-of-the-art baselines in automated Web test script generation,
+offering a more robust, scalable, and user-accessible solution for Web test automation. 
 
 ## Features
 
@@ -8,7 +10,7 @@ Tessara is an intelligent web automation system that uses Large Language Models 
 - **Script Generation**: Automatic Playwright script generation from plans
 - **Iterative Execution**: Multi-iteration approach with step concatenation
 - **Real-time Monitoring**: Streamlit UI for live monitoring of execution
-- **State Management**: Centralized state tracking across iterations
+- **Backtracking**: Centralized state tracking and backtracking across steps and iterations
 - **Screenshot Capture**: Automatic screenshot capture and reuse
 - **Error Recovery**: Robust error handling and logging
 
@@ -230,4 +232,5 @@ For issues or questions, please check:
 
 **Version**: 1.0  
 **Last Updated**: February 2025
+
 
