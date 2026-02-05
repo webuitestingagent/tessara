@@ -1,0 +1,29 @@
+# Tessara Configuration Template
+# Copy this file to config.yaml and fill in your details
+
+# Task/Intent: Describe what you want the system to automate
+intent: "Your task description here"
+nlp_task: "Your task description here"
+
+# Starting URL for the automation
+start_url: "https://www.example.com"
+
+# Unique identifier for this task
+problem_id: "MyTask"
+
+# Optional: Path to Chrome user data directory for persistent profiles
+# Leave as null if you don't need persistent profiles
+playwright_user_data_dir: null
+
+# Planner Configuration (Azure OpenAI)
+planner:
+  api_key: "your-azure-openai-api-key-here"
+  api_version: "2024-12-01-preview"
+  azure_endpoint: "https://your-resource.openai.azure.com/"
+
+# Scripter Configuration (Azure OpenAI)
+scripter:
+  api_key: "your-azure-openai-api-key-here"
+  api_version: "2024-12-01-preview"
+  azure_endpoint: "https://your-resource.openai.azure.com/"
+

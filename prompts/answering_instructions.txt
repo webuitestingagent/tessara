@@ -1,0 +1,4 @@
+Answer, to the best of your capability the below question based on the screenshot provided. The answer should fulfill all the details asked in the question based on the screenshot. 
+Also state "Success" or "Failure" if you were able to answer the question based on the screenshot in the following format - 
+
+Task Complete: Success
