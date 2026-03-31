@@ -7,6 +7,7 @@ import sys
 import subprocess
 import os
 
+
 def check_python_version():
     """Check if Python version is 3.8+"""
     version = sys.version_info
