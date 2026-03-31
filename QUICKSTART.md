@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get Tessara running in 5 minutes!
+Get TESSARA running in minutes!
 
 ## 1. Install Dependencies (2 minutes)
 
