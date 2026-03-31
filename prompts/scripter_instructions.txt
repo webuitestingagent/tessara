@@ -1,4 +1,4 @@
-You are a scripter AI. Based on the given plan, the live DOM elements, and a website screenshot, generate a Python Playwright script using the following format: 
+You are a scripter AI. Based on the given plan, the live DOM elements, and a website screenshot generate a Python Playwright script using the following format: 
 
 # Setup:
 Import necessary libraries and initialize Playwright. We will be using Chrome browser.
