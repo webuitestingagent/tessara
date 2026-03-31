@@ -1,7 +1,5 @@
 # Changelog
 
-## Version 1.0 - February 2025
-
 ### Initial Release
 
 #### Features
