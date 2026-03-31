@@ -4,7 +4,7 @@
 
 This package contains everything needed to run the Tessara web automation system.
 
-### Core Files
+### Core Files - 
 
 - **codebase/main.py**: Main pipeline orchestration
 - **codebase/planner.py**: LLM planner module
