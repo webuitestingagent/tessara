@@ -1,4 +1,3 @@
-# scripter.py
 import base64, re, time
 from openai import AzureOpenAI
 from utils import log_interaction, log_token_usage
