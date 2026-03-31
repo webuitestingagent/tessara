@@ -1,6 +1,6 @@
 # Package Checklist
 
-Use this checklist to verify the package is complete before distribution.
+Use this checklist & verify the package is complete before distribution.
 
 ## Core Files
 - [x] codebase/main.py
