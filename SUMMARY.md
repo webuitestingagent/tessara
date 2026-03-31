@@ -1,4 +1,4 @@
-# Tessara Package Summary
+# TESSARA Package Summary
 
 ## Package Location
 `cursor_model/tessara_package/`
