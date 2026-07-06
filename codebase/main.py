@@ -1,4 +1,3 @@
-#main.py
 import os, shutil, re, tempfile, time,psutil
 from sys import stdout
 from subprocess import run, CalledProcessError, PIPE, Popen
