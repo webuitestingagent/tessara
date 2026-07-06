@@ -2,7 +2,7 @@
 # Copy this file to config.yaml and fill in your details
 
 # Task/Intent: Describe what you want the system to automate
-intent: "Your task description here"
+intent: "Your task descriptions here"
 nlp_task: "Your task description here"
 
 # Starting URL for the automation
