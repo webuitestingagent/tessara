@@ -1,6 +1,6 @@
 # Installation Step-by-Step Guide
 
-## Quick Start
+## QuickStart
 
 ### 1. Install Python Dependencies
 
