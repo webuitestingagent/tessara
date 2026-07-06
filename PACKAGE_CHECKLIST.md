@@ -1,4 +1,4 @@
-# Package Checklist
+# Package(s) Checklist
 
 Use this checklist & verify the package is complete before distribution.
 
